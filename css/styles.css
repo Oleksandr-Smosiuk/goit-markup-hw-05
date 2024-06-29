@@ -125,6 +125,10 @@ a {
 }
 
 .section-team {
+  background-color: #f4f4fd;
+}
+
+.section-team-list {
   background-color: #ffffff;
 }
 
