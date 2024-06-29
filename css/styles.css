@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #434435;
+  color: #434455;
   background-color: #fff;
 }
 
@@ -60,7 +60,7 @@ a {
   background-color: #2e2f42;
 }
 
-.h1 {
+.heading1 {
   font-size: 56px;
   line-height: 107%;
   letter-spacing: 0.02em;
@@ -77,12 +77,19 @@ a {
   background-color: #4d5ae5;
 }
 
-.h2 {
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
+.heading2 {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .h-benefits {
@@ -118,7 +125,7 @@ a {
 }
 
 .section-team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 .h-portfolio {
