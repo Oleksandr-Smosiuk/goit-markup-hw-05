@@ -108,7 +108,7 @@ a {
   color: #434455;
 }
 
-.h-section {
+.heading-section {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -117,7 +117,7 @@ a {
   color: #2e2f42;
 }
 
-.p-section {
+.paragraph-section {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
