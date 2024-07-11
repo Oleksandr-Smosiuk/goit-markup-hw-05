@@ -202,7 +202,6 @@ a {
 }
 
 .head-our-portfolio {
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 
@@ -237,7 +236,7 @@ a {
 
 .section-team-list {
   background-color: #ffffff;
-  display: block;
+
   width: calc((100% - 3 * 24px) / 4);
   border-radius: 4px;
 }
@@ -247,6 +246,8 @@ a {
 }
 
 .container-hed-portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .page-portfolio {
@@ -259,10 +260,8 @@ a {
 
 .section-portfolio-list {
   display: flex;
-  gap: 48px 24px;
   flex-wrap: wrap;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  gap: 48px 24px;
 }
 
 .section-portfolio-item {
