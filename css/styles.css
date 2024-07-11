@@ -256,6 +256,7 @@ a {
 
 .section-portfolio-list {
   display: flex;
+  display: block;
   gap: 48px 24px;
   flex-wrap: wrap;
 }
@@ -299,7 +300,6 @@ a {
 .footer-logo .footer-logo-part {
   color: #f4f4fd;
   display: inline-block;
-  display: block;
   margin-bottom: 16px;
 }
 
