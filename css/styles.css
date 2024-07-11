@@ -246,6 +246,11 @@ a {
   gap: 32px 16px;
 }
 
+.container-hed-portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .page-portfolio {
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
@@ -256,7 +261,6 @@ a {
 
 .section-portfolio-list {
   display: flex;
-  display: block;
   gap: 48px 24px;
   flex-wrap: wrap;
 }
