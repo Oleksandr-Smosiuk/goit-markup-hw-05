@@ -147,7 +147,6 @@ a {
   min-width: 169px;
   border: none;
   height: 56px;
-  cursor: pointer;
 }
 
 .button:hover,
@@ -231,6 +230,7 @@ a {
   padding-bottom: 120px;
 }
 .section-team-item {
+  display: block;
   display: flex;
   gap: 24px;
 }
@@ -299,6 +299,7 @@ a {
 .footer-logo .footer-logo-part {
   color: #f4f4fd;
   display: inline-block;
+  display: block;
   margin-bottom: 16px;
 }
 
