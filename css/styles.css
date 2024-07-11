@@ -147,6 +147,7 @@ a {
   min-width: 169px;
   border: none;
   height: 56px;
+  cursor: pointer;
 }
 
 .button:hover,
