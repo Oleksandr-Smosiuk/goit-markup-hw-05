@@ -247,8 +247,6 @@ a {
 }
 
 .container-hed-portfolio {
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .page-portfolio {
@@ -263,6 +261,8 @@ a {
   display: flex;
   gap: 48px 24px;
   flex-wrap: wrap;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .section-portfolio-item {
