@@ -243,7 +243,7 @@ a {
 
 .section-team-list {
   background-color: #ffffff;
-
+  display: block;
   width: calc((100% - 3 * 24px) / 4);
   border-radius: 4px;
 }
