@@ -28,10 +28,6 @@ h6 {
   margin-bottom: 0;
 }
 
-img {
-  display: block;
-}
-
 a {
   text-decoration: none;
 }
@@ -256,7 +252,7 @@ a {
   gap: 32px 16px;
 }
 
-.container-hed-portfolio {
+.section-our-portfolio {
   padding-top: 120px;
   padding-bottom: 120px;
 }
