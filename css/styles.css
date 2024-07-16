@@ -177,6 +177,16 @@ a {
   padding-bottom: 120px;
 }
 
+.heading-section-one {
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+  margin-bottom: 72px;
+}
+
 .benefits-list {
   display: flex;
   gap: 24px;
