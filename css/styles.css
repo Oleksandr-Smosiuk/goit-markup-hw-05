@@ -296,6 +296,7 @@ a {
   padding-top: 100px;
   padding-bottom: 100px;
   max-width: 312px 0;
+  padding-left: 156px;
 }
 
 .footer-logo {
@@ -312,11 +313,6 @@ a {
   color: #f4f4fd;
   display: inline-block;
   margin-bottom: 16px;
-}
-
-.footer-div {
-  margin-top: 100px;
-  margin-left: 156px;
 }
 
 .footer-p {
