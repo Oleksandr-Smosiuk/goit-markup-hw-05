@@ -197,10 +197,6 @@ a {
   width: calc((100% - 3 * 24px) / 4);
 }
 
-.team-people {
-  padding: 32px 0;
-}
-
 .h-benefits {
   font-weight: 500;
   font-size: 20px;
@@ -257,9 +253,6 @@ a {
   display: block;
   width: calc((100% - 3 * 24px) / 4);
   border-radius: 0px 0px 4px 4px;
-  border-left: 1px solid #e7e9fc;
-  border-right: 1px solid #e7e9fc;
-  border-bottom: 1px solid #e7e9fc;
 }
 
 .team-people {
@@ -274,6 +267,10 @@ a {
 .page-portfolio {
   background-color: #fff;
   padding: 32px;
+  border-left: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+  border-bottom: 1px solid #e7e9fc;
+  padding: 32px 16px;
 }
 
 .section-portfolio-list {
@@ -306,8 +303,6 @@ a {
   padding-top: 100px;
   padding-bottom: 100px;
   background-color: #2e2f42;
-  padding-left: 156px;
-  padding-left: auto;
 }
 
 .footer-logo {
