@@ -405,12 +405,12 @@ a {
   margin-bottom: 72px;
 }
 
-.Portfolio-wrap {
+.portfolio-wrap {
   position: relative;
   overflow: hidden;
 }
 
-.Portfolio-text-wrap {
+.portfolio-text-wrap {
   position: absolute;
   background-color: #4d5ae5;
   color: #f4f4fd;
