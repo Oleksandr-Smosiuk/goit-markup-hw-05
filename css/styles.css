@@ -565,6 +565,7 @@ a {
 .close-black:focus {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff;
 }
 
 .svg-close-black {
